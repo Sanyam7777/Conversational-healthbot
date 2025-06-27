@@ -1,0 +1,69 @@
+?? Hemoglobin
+Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the rest of the body. Normal hemoglobin levels vary by age and gender. Low hemoglobin may indicate anemia, while high levels can result from dehydration or lung disease.
+
+?? Creatinine
+Creatinine is a waste product that comes from the normal wear and tear on muscles. It is removed from the blood by the kidneys. High creatinine levels usually mean the kidneys aren't working properly.
+
+?? GFR (Glomerular Filtration Rate)
+GFR is a test used to check how well the kidneys are filtering. A GFR above 90 is considered normal. A GFR below 60 for 3 months or more indicates chronic kidney disease.
+
+?? BUN (Blood Urea Nitrogen)
+BUN measures the amount of nitrogen in your blood that comes from the waste product urea. High BUN may suggest kidney dysfunction, dehydration, or high protein intake.
+
+?? LDL Cholesterol
+LDL (Low-Density Lipoprotein) cholesterol is often called “bad cholesterol” because it can build up on the walls of your arteries and increase the risk of heart disease.
+
+?? HDL Cholesterol
+HDL (High-Density Lipoprotein) cholesterol is “good cholesterol.” It helps remove LDL cholesterol from the arteries. Higher levels of HDL are generally better.
+
+?? Triglycerides
+Triglycerides are a type of fat found in the blood. High levels can increase the risk of heart disease, especially when combined with high LDL or low HDL.
+
+?? Total Cholesterol
+Total cholesterol measures all the cholesterol in your blood, including HDL, LDL, and VLDL. A total cholesterol level below 200 mg/dL is considered desirable.
+
+?? Blood Glucose (Fasting)
+Fasting blood glucose tests measure blood sugar after an overnight fast. A level under 100 mg/dL is considered normal. Levels between 100 and 125 mg/dL indicate prediabetes.
+
+?? HbA1c (Glycated Hemoglobin)
+HbA1c measures the average blood glucose level over the past 2–3 months. An HbA1c below 5.7% is normal. Between 5.7% and 6.4% is prediabetes. 6.5% or more indicates diabetes.
+
+?? Vitamin D
+Vitamin D helps the body absorb calcium. It is crucial for healthy bones and immune function. Low levels can lead to bone softening diseases like rickets or osteomalacia.
+
+?? Vitamin B12
+Vitamin B12 is essential for nerve function and the production of DNA and red blood cells. Deficiency can cause fatigue, memory issues, and even nerve damage.
+
+?? TSH (Thyroid Stimulating Hormone)
+TSH controls how much thyroid hormone is released by the thyroid gland. High TSH usually indicates an underactive thyroid (hypothyroidism). Low TSH may suggest hyperthyroidism.
+
+?? Uric Acid
+Uric acid is produced during the breakdown of purines. High levels can cause gout, a form of arthritis that causes joint pain, especially in the big toe.
+
+?? ALT (SGPT)
+ALT is an enzyme found in the liver. High levels usually suggest liver damage or inflammation, often from hepatitis or alcohol abuse.
+
+?? AST (SGOT)
+AST is another liver enzyme. Like ALT, elevated AST may indicate liver disease, but it’s also found in other organs like the heart and muscles.
+
+?? Bilirubin
+Bilirubin is a substance formed when red blood cells break down. High bilirubin can cause jaundice and may indicate liver or bile duct problems.
+
+?? Alkaline Phosphatase (ALP)
+ALP is an enzyme related to the liver, bones, and bile ducts. High levels may point to bone disorders, liver disease, or bile duct obstruction.
+
+?? Platelet Count
+Platelets help with blood clotting. Low counts can lead to excessive bleeding, while high counts may increase clot risk and are sometimes seen in inflammatory conditions.
+
+?? Total Protein, Albumin, Globulin
+These tests help evaluate liver and kidney function as well as nutritional status. Albumin keeps fluid in your bloodstream and globulins fight infection.
+
+?? Calcium
+Calcium is vital for bone health, nerve signaling, and muscle function. Low calcium can cause muscle cramps; high calcium may indicate parathyroid or kidney problems.
+
+?? Phosphorus
+Phosphorus is important for bones and energy storage. Abnormal levels are often linked to kidney disease or hormonal imbalances.
+
+?? Sodium, Potassium, Chloride
+These electrolytes help regulate fluid balance, nerve signals, and muscle function. Abnormal levels may indicate dehydration, kidney issues, or hormone imbalances.
+

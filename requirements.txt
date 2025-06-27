@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+transformers
+sentencepiece
+accelerate
+faiss-cpu
+sentence-transformers
+torch
