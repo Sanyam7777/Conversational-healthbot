@@ -1,3 +1,4 @@
+https://drive.google.com/file/d/1C5un2s51m0cJCg1hVhxnmT0pxBjzFcb-/view?usp=sharing
 # Conversational Health Report Generator
 
 The Conversational Health Report Generator is an AI-powered tool designed to help individuals understand their medical reports. It allows users to upload health-related PDFs (such as lab reports), extract key medical terms, and ask natural language questions about the report. The system responds with simplified, grounded explanations based on curated medical knowledge.
